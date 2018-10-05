@@ -13,5 +13,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** really need to finish the project tomorrow, i'll finish quickly the css, and add the javascript. Maybe I can add an option to select the instrument you want to play in order to improve the project.
 
+### Day 3: October 05, 2018
 
+**Today's Progress**: Finished the CSS and responsiveness on the First project of the #Javascript30 challenge. I tried to do a really simple design (trying to improve my web design skills along with my coding skills)
 
+**Thoughts:** I did not have enough time to start the JS today so quite disappointed but it's the weekend so I'll have more time to work :)
