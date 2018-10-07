@@ -19,8 +19,14 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** I did not have enough time to start the JS today so quite disappointed but it's the weekend so I'll have more time to work :)
 
-### Day 4: October 05, 2018
+### Day 4: October 06, 2018
 
 **Today's Progress**: Finished the First project of the #Javascript30 challenge, the Drum Kit. You can find it on my 30 days of Javascript repo. 
 
 **Thoughts:** Feeling quite happy to work again with Javascript, going step by step. I will add a click event listener on the Drum Kit later so that it can work on mobile :)
+
+### Day 5: October 07, 2018
+
+**Today's Progress**: Today I wanted to understand a little bit more back-end programmation because it can be super useful for the creation of websites, so, I've started a course about PHP on Udemy. I've learnt how to write variables, constants, arrays for now...
+
+**Thoughts:** PHP seems really fun, can't wait to finish the course in the following days :)
