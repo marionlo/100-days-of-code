@@ -30,3 +30,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Today's Progress**: Today I wanted to understand a little bit more back-end programmation because it can be super useful for the creation of websites, so, I've started a course about PHP on Udemy. I've learnt how to write variables, constants, arrays for now...
 
 **Thoughts:** PHP seems really fun, can't wait to finish the course in the following days :)
+
+### Day 6: October 08, 2018
+
+**Today's Progress**: Not a lot to say today, I've continued PHP and found some useful ressources, and I've also started to read Javascript up and going :)
+
