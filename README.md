@@ -35,3 +35,13 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Today's Progress**: Not a lot to say today, I've continued PHP and found some useful ressources, and I've also started to read Javascript up and going :)
 
+### Day 7: October 09, 2018
+
+**Today's Progress**: Continued to read Javascript up and going
+
+### Day 8: October 10, 2018
+
+**Today's Progress**: Today I've played a little bit with the Grid display system, and started to work on the second project of the #Javascript30 challenge which is a Javascript and CSS Clock.
+
+**Thoughts:** Didn't have a lot of time to code for the past two days, I hope it will be better tomorrow! 
+
