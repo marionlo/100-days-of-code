@@ -45,3 +45,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Didn't have a lot of time to code for the past two days, I hope it will be better tomorrow! 
 
+### Day 9: October 11, 2018
+
+**Today's Progress**:  Finished the second project of the #Javascript30 challenge, I did a Clock in JS and CSS. I've learnt a lot about transition and transform in CSS, and the Date object methods, such as getSeconds, getMinutes or getHours and how to apply style to the css with Javascript.
+
+**Thoughts:** A good day of coding, always good to practice Javascript :) 
