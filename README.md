@@ -55,3 +55,5 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Today's Progress**: Continued my course on PHP on Udemy, learnt about associative arrays (where you can give a name to the key) and multi dimensional arrays, where there is a parent array with children arrays inside of it.
 
+**Thoughts:** I need to find other ressources on PHP to practice things that can be useful for a website, such as forms for example
+
