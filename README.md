@@ -50,3 +50,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Today's Progress**:  Finished the second project of the #Javascript30 challenge, I did a Clock in JS and CSS. I've learnt a lot about transition and transform in CSS, and the Date object methods, such as getSeconds, getMinutes or getHours and how to apply style to the css with Javascript.
 
 **Thoughts:** A good day of coding, always good to practice Javascript :) 
+
+### Day 10: October 12, 2018
+
+**Today's Progress**: Continued my course on PHP on Udemy, learnt about associative arrays (where you can give a name to the key) and multi dimensional arrays, where there is a parent array with children arrays inside of it.
+
