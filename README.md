@@ -63,7 +63,7 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 ### Day 12: October 14, 2018
 
-**Today's Progress**: I've continued the brick breaker game in Javascript, started to add the event listener for the key input to control the platform. Practiced a little bit PHP as well with some exercices, and learnt about the if and else statement.
+**Today's Progress**: I've continued the brick breaker game in Javascript, started to add the event listener for the key input to control the paddle. Practiced a little bit PHP as well with some exercices, and learnt about the if and else statement.
 
 
 
