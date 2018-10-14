@@ -57,3 +57,13 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** I need to find other ressources on PHP to practice things that can be useful for a website, such as forms for example
 
+### Day 11: October 13, 2018
+
+**Today's Progress**: Started to do a tutorial to create a brick breaker in Javascript on FreeCodeCamp. For now, I started to create the canvas and to do the game loop function
+
+### Day 12: October 14, 2018
+
+**Today's Progress**: I've continued the brick breaker game in Javascript, started to add the event listener for the key input to control the platform.
+
+
+
