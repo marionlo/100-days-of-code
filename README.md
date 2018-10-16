@@ -71,4 +71,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** The construction of PHP is pretty similar to Javascript, the basics are quite easy to understand.
 
+### Day 14: October 16, 2018
+
+**Today's Progress**: Today I've tried to continue my Neighborhood map (Udacity front-end last project - Google Maps), but I'm a stuck to implement a different image for each location with the Flickr API. Tried to fetch the image according to the name of  the infowindow, but it's not working.
+
+**Thoughts:** Might think again about the structure of my React App, or maybe refactor a part of the code to make it easier so that it works.
+
 
