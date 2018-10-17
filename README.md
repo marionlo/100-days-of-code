@@ -77,4 +77,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Might think again about the structure of my React App, or maybe refactor a part of the code to make it easier so that it works.
 
+### Day 15: October 17, 2018
+
+**Today's Progress**: Today I've continued again my Neighborhood map, I managed to add the image for the different location with ComponentDidUpdate, but there is an infinite loop. Maybe it's because there is a setState on the loop, I need to find a solution to make it work without the component rendering in a loop. I've also started a course on Angular 6, learnt how to add modules, how to use ngModel, and started to learn about Typescript.
+
+**Thoughts:** React is difficuuuult!!!
+
+
 
