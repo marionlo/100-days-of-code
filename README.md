@@ -83,5 +83,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** React is difficuuuult!!!
 
+### Day 16: October 18, 2018
+
+**Today's Progress**: Today I've continued again my Neighborhood map, I managed to bypass the infinite loop of the ComponentDidUpdate and now the correct picture for each location is displayed :) One latest big feature to implement: when you click on the list of locations it should display the infowindow linked to the correct marker.
+
+**Thoughts:** React is difficuuuult part2 ahaha!!!
 
 
