@@ -89,4 +89,15 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** React is difficuuuult part2 ahaha!!!
 
+### Day 19: October 18, 2018
+
+**Today's Progress**: Clean a little bit my code for the Neighborhood map today and did some readings on articles about Javascript
+
+
+### Day 20: October 19, 2018
+
+**Today's Progress**: Did some FreeCodeCamp exercices on React and watch some videos on Javascript today
+
+
+
 
