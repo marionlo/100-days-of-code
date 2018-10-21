@@ -98,6 +98,13 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Today's Progress**: Did some FreeCodeCamp exercices on React and watch some videos on Javascript today
 
+### Day 21: October 20, 2018
+
+**Today's Progress**: Sunday is ... Javascript Day (as pretty much everyday actually aha)! Solved some katas on Codewars to practice my algorithmic skills.
+
+**Thoughts:** Tomorrow I'll buy Javascript books, to be able to improve my knowledge while commutting or when I can't be in front of my computer :) 
+
+
 
 
 
