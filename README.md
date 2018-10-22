@@ -89,21 +89,27 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** React is difficuuuult part2 ahaha!!!
 
-### Day 19: October 18, 2018
+### Day 17: October 19, 2018
 
 **Today's Progress**: Clean a little bit my code for the Neighborhood map today and did some readings on articles about Javascript
 
 
-### Day 20: October 19, 2018
+### Day 18: October 20, 2018
 
 **Today's Progress**: Did some FreeCodeCamp exercices on React and watch some videos on Javascript today
 
-### Day 21: October 20, 2018
+### Day 19: October 21, 2018
 
 **Today's Progress**: Sunday is ... Javascript Day (as pretty much everyday actually aha)! Solved some katas on Codewars to practice my algorithmic skills.
 
 **Thoughts:** Tomorrow I'll buy Javascript books, to be able to improve my knowledge while commutting or when I can't be in front of my computer :) 
 
+### Day 20: October 22, 2018
+
+**Today's Progress**: Orderded one Javascript and one Angular book today. I've did some katas and i've begin to read YDKJS: Scope and Closures.
+
+
+ 
 
 
 
