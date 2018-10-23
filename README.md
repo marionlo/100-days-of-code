@@ -108,6 +108,13 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Today's Progress**: Ordered one Javascript and one Angular book today. I've did some katas and i've begin to read YDKJS: Scope and Closures.
 
+### Day 21: October 23, 2018
+
+**Today's Progress**: I've listened to a couple of podcasts (mostly on Javascript) and did some katas.
+
+**Thoughts:** Maybe I'll work on creating my portfolio in the following days
+
+
 
  
 
