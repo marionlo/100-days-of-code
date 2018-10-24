@@ -114,6 +114,12 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Maybe I'll work on creating my portfolio in the following days
 
+### Day 22: October 24, 2018
+
+**Today's Progress**: Katas katas katas katas on Codewars! Also read some articles on this Github, that I strongly recommend (33 Concepts Every #JavaScript Developer Should Know) : https://github.com/leonardomso/33-js-concepts#readme
+
+**Thoughts:** The problem solving seems more and more easy for me, I really enjoy solving those small algo problems :) 
+
 
 
  
