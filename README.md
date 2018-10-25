@@ -120,6 +120,14 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** The problem solving seems more and more easy for me, I really enjoy solving those small algo problems :) 
 
+### Day 23: October 25, 2018
+
+**Today's Progress**: Today I've learnt about CSS Variables. I knew that it was possible to create variables with SASS but I didn't know it was possible with "vanilla" CSS3. I did the third project of the Javascript30 challenge and create a small app to control the spacing, blur and color of the spacing of an image. That was fun!
+
+**Thoughts:** that was a fun project! It's seems easier to create variables with Sass because the way to write it in pure CSS is quite complicated, especially when  you want to use the variable, var(--yourVar), that can be quite tricky :) 
+
+
+
 
 
  
