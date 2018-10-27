@@ -126,6 +126,19 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** that was a fun project! It's seems easier to create variables with Sass because the way to write it in pure CSS is quite complicated, especially when  you want to use the variable, var(--yourVar), that can be quite tricky :) 
 
+### Day 24: October 26, 2018
+
+**Today's Progress**: Not a lot of time today so I did some katas :)
+
+### Day 25: October 27, 2018
+
+**Today's Progress**: Today I worked on a project with a friend (creation of a dashboard that display analytics on the use of an app). I had already work on it before, today we implemented a new feature to get the analytics for each person who are using the app. Was mostly html, css and also javascript and Jquery-UI. I learnt how to add images on a option tag (which is normally supposed to plain plain text). 
+
+**Thoughts:** that was a lot of fun, I really like to work on concrete projects :)
+
+
+
+
 
 
 
