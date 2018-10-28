@@ -136,6 +136,12 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** that was a lot of fun, I really like to work on concrete projects :)
 
+### Day 26: October 28, 2018
+
+**Today's Progress**: I've done my 5 pull requests for the Hacktoberfest. I also continued to learn Angular and did my first app in (Guess the number app), nothing complicated for now, an app with only one component, and I started to read Professional JavaScript for Web Developers.
+
+
+
 
 
 
