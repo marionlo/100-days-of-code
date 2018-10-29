@@ -140,6 +140,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Today's Progress**: I've done my 5 pull requests for the Hacktoberfest. I also continued to learn Angular and did my first app in (Guess the number app), nothing complicated for now, an app with only one component, and I started to read Professional JavaScript for Web Developers.
 
+### Day 27: October 29, 2018
+
+**Today's Progress**: Today I started to learn a little bit more about Typescript, which allow to define the type of a variable (string, number, boolean...), classes with private properties only accessible in the class, or public properties...
 
 
 
