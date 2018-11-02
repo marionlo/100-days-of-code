@@ -144,11 +144,17 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Today's Progress**: Today I started to learn a little bit more about Typescript, which allow to define the type of a variable (string, number, boolean...), classes with private properties only accessible in the class, or public properties...
 
-### Day 27: October 29, 2018
+### Day 27: October 30, 2018
 
 **Today's Progress**: Today was "correct the bug day". Worked again with my friend on his dashboard project, had to correct a bug that prevented a form to be submitted because of a JS+Jquery script that was converting option tags in un unordered list and removing my onchange method. Had to fix it by appending a click method to my script on the li tag to submit the form. 
 
 **Thoughts:** Finding the solution to a problem when you code is the best feeling ever!! :) Really enjoyed solving this issue
+
+### Day 28: October 31, 2018
+
+### Day 29: November 01, 2018
+
+### Day 30: October 02, 2018
 
 
 
