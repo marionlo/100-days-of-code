@@ -151,10 +151,22 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Thoughts:** Finding the solution to a problem when you code is the best feeling ever!! :) Really enjoyed solving this issue
 
 ### Day 28: October 31, 2018
+**Today's Progress**:
 
 ### Day 29: November 01, 2018
+**Today's Progress**:
 
-### Day 30: October 02, 2018
+### Day 31: November 02, 2018
+**Today's Progress**:
+
+### Day 32: November 03, 2018
+**Today's Progress**:
+
+### Day 33: November 04, 2018
+**Today's Progress**:
+
+
+
 
 
 
