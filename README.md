@@ -162,6 +162,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 32: November 04, 2018
 **Today's Progress**: Started the 4th course of #Javascript30 to practice my array skills. Worked on different methods (filter, map, sort, reduce...)
 
+### Day 33: November 05, 2018
+**Today's Progress**: Started the Angular tutorial: Tour of Heroes, in order to learn the fundamentals.
+
 
 
 
