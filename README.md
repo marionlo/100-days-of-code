@@ -165,6 +165,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 33: November 05, 2018
 **Today's Progress**: Started the Angular tutorial: Tour of Heroes, in order to learn the fundamentals of the framework. Learnt about the curly braces of interpolation to display data, to generate a new component via the ng generate component command.
 
+### Day 34: November 06, 2018
+**Today's Progress**: I've continued the Tour of Heroes Angular tutorial today. I've learnt to create a class, learnt about pipes such as the UppercasePipe to format a string, the two-way binding with the ng-model where you bind a property to a html element so that the data can flow, and also the FormsModule and the * ngFor repeater directive.
+
+
 
 
 
