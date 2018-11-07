@@ -168,6 +168,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 34: November 06, 2018
 **Today's Progress**: I've continued the Tour of Heroes Angular tutorial today. I've learnt to create a class, learnt about pipes such as the UppercasePipe to format a string, the two-way binding with the ng-model where you bind a property to a html element so that the data can flow, and also the FormsModule and the * ngFor repeater directive.
 
+### Day 35: November 07, 2018
+**Today's Progress**:Continued the Tour of Heroes tutorial: I added a click event on the hero list with Angular's binding syntax, learnt about ngIf to conditionally include or exclude a block of HTML and splitted my components. I also modified the website of a friend that I did, she needed small updates on the homepage.
+
 
 
 
