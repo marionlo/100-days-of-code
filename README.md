@@ -172,6 +172,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Today's Progress**:Continued the Tour of Heroes tutorial: I added a click event on the hero list with Angular's binding syntax, learnt about ngIf to conditionally include or exclude a block of HTML and splitted my components. I also modified the website of a friend that I did, she needed small updates on the homepage.
 
 
+### Day 36: November 08, 2018
+**Today's Progress**: Today I've finished the Flexbox curriculum on @freeCodeCamp and read some articles. I've found this one where you can get some ressources to learn React: https://speckyboy.com/learning-react/
+
 
 
 
