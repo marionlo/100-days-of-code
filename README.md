@@ -175,6 +175,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 36: November 08, 2018
 **Today's Progress**: Today I've finished the Flexbox curriculum on @freeCodeCamp and read some articles. I've found this one where you can get some ressources to learn React: https://speckyboy.com/learning-react/
 
+### Day 37: November 09, 2018
+**Today's Progress**: no proper code today, I've think about the structure of my portfolio, the categories that I need. Will start to work on it tomorrow :)
+
+### Day 38: November 11, 2018
+**Today's Progress**: Today I've finished reading chapter 4 of my current book: Professional JavaScript for Web Developers, the language basics. Always good to view the fundamentals again.
 
 
 
