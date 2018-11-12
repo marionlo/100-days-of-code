@@ -181,6 +181,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 38: November 11, 2018
 **Today's Progress**: Today I've finished reading chapter 4 of my current book: Professional JavaScript for Web Developers, the language basics. Always good to view the fundamentals again.
 
+### Day 39: November 12, 2018
+**Today's Progress**: Today I've worked on my portfolio. Did the structure and started to work on the first section of the website, the header and the navigation menu. 
+**Today's Progress**: wanted to do the website with React or Angular to train, but I think it will be better if I do it in plain HTML, CSS and Vanilla JS.
+
 
 
 
