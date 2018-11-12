@@ -183,7 +183,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 ### Day 39: November 12, 2018
 **Today's Progress**: Today I've worked on my portfolio. Did the structure and started to work on the first section of the website, the header and the navigation menu. 
-**Today's Progress**: wanted to do the website with React or Angular to train, but I think it will be better if I do it in plain HTML, CSS and Vanilla JS.
+
+**Thoughts:** wanted to do the website with React or Angular to train, but I think it will be better if I do it in plain HTML, CSS and Vanilla JS.
 
 
 
