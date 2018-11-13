@@ -186,6 +186,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** wanted to do the website with React or Angular to train, but I think it will be better if I do it in plain HTML, CSS and Vanilla JS.
 
+### Day 40: November 13, 2018
+**Today's Progress**: Today I've worked on my portfolio again! Changed the logo, and added an animated hover underline effect on the navigation.
+
+**Thoughts:** will integrate Scrollify tomorrow
+
 
 
 
