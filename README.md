@@ -191,6 +191,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** will integrate Scrollify tomorrow
 
+### Day 40: November 14, 2018
+**Today's Progress**: Good progress today, I've added the Scrollify library, on the click button of the first section to go to the about me section, and the other one so that the website navigation seems smooth :)
+
+
+
 
 
 
