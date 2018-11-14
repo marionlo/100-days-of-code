@@ -191,7 +191,7 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** will integrate Scrollify tomorrow
 
-### Day 40: November 14, 2018
+### Day 41: November 14, 2018
 **Today's Progress**: Good progress today, I've added the Scrollify library, made a bouncing animation on an arrow icon of the first section to go directly to the about me section. Added Scrollify also on the other sections so that the website navigation seems smooth :)
 
 
