@@ -194,6 +194,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 41: November 14, 2018
 **Today's Progress**: Good progress today, I've added the Scrollify library, made a bouncing animation on an arrow icon of the first section to go directly to the about me section. Added Scrollify also on the other sections so that the website navigation seems smooth :)
 
+### Day 42: November 15, 2018
+**Today's Progress**: I really enjoy to create my Portfolio! Today I began working on the "About me" section of my portfolio, created the content and added some CSS on the section. Will add the skills tomorrow :)
 
 
 
