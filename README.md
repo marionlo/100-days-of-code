@@ -197,6 +197,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 42: November 15, 2018
 **Today's Progress**: I really enjoy to create my Portfolio! Today I began working on the "About me" section of my portfolio, created the content and added some CSS on the section. Will add the skills tomorrow :)
 
+### Day 43: November 16, 2018
+**Today's Progress**: Today I continued to create the About me section of my portfolio, I have written about the skills and the tools that I use. Tomorrow I'll add integrate it in the HTML and style the section.
+
+### Day 44: November 17, 2018
+**Today's Progress**: Started to integrate the skills, tools and technologies that I use on the about me section of my portfolio.
 
 
 
