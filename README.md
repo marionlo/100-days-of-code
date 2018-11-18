@@ -203,6 +203,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 44: November 17, 2018
 **Today's Progress**: Started to integrate the skills, tools and technologies that I use on the about me section of my portfolio.
 
+### Day 45: November 17, 2018
+**Today's Progress**: Not a lot today, I read a little bit my Javascript book and did some katas on Codewars.
+
+
 
 
 
