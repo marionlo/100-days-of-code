@@ -209,7 +209,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 46: November 19, 2018
 **Today's Progress**: Finished the "about me" section of my portfolio, will start to work on the "projects" section tomorrow, but first I need to think what can I include in this part :)
 
-
+### Day 47: November 20, 2018
+**Today's Progress**: Today I only coded at work, didn't have the time to work from home. I worked with Owl Carousel, a Jquery plugin that let create beautiful and responsive carousel. Worked also on some CSS to style my page.
 
 
 
