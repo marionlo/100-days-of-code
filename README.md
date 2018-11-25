@@ -215,6 +215,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 48: November 22, 2018
 **Today's Progress**: Almost finished writing the content for the Projects section of my portfolio. I've  also found how I wanted to display the projects. Now let's read some content about Angular before sleeping!
 
+### Day 49: November 25, 2018
+**Today's Progress**: Did some Javascript katas on Codewars and begin to read a new chapter of my book about objects and arrays. Tuesday, will attend a conference of the founder of CodingGirls. Looking forward to it!
+
+
 
 
 
