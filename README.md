@@ -218,6 +218,16 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 49: November 25, 2018
 **Today's Progress**: Did some Javascript katas on Codewars and begin to read a new chapter of my book about objects and arrays. Tuesday, will attend a conference of the founder of CodingGirls. Looking forward to it!
 
+### Day 50: November 26, 2018
+**Today's Progress**: Added the contact section on my portfolio, did all the structure and added a little bit of CSS :)
+
+### Day 51: November 27, 2018
+**Today's Progress**: Did a little bit of reading and attended a conference about women in tech, with the founder of Coding Girls, whose mission is to empower women to follow a career in tech
+
+### Day 52: November 28, 2018
+**Today's Progress**: Today I focus on the methods for the arrays, push, pop, sort, splice, reduce, reverse ...
+
+
 
 
 
