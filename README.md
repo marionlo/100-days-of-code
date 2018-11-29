@@ -227,6 +227,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 52: November 28, 2018
 **Today's Progress**: Today I focus on the methods for the arrays, push, pop, sort, splice, reduce, reverse ...
 
+### Day 53: November 29, 2018
+**Today's Progress**: Today was Angular day. Continued an online course, learn how an Angular app gets loaded and started, about component declaration in the app module ts file and the possibility to write inline template or style if not there is not a lot of code.
+
 
 
 
