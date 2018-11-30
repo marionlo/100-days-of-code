@@ -230,7 +230,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 53: November 29, 2018
 **Today's Progress**: Today was Angular day. Continued an online course, learn how an Angular app gets loaded and started, about component declaration in the app module ts file and the possibility to write inline template or style if there is not a lot of code.
 
-
+### Day 54: November 30, 2018
+**Today's Progress**: Revised what I learn in Angular yesterday. Understood even more how everything work, the template, structure of the component...
 
 
 
