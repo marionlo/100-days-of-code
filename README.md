@@ -233,6 +233,12 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 54: November 30, 2018
 **Today's Progress**: Revised what I learn in Angular yesterday. Understood even more how everything work, the template, structure of the component...
 
+### Day 55: December 01, 2018
+**Today's Progress**: Did some exercices on the basics of Angular, I practiced mainly on the structure of the components.
+
+### Day 56: December 02, 2018
+**Today's Progress**: Again some Angular today. Worked on the data-binding. Learnt about how to use string interpolation and property binding but also the differences between both, and learnt about the event binding.
+
 
 
 
