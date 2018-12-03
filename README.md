@@ -239,6 +239,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 56: December 02, 2018
 **Today's Progress**: Again some Angular today. Worked on the data-binding. Learnt about how to use string interpolation and property binding but also the differences between both, and learnt about the event binding.
 
+### Day 57: December 03, 2018
+**Today's Progress**: Started to add the mosaic of projects on my portfolio with Flexbox and some style on the section. Will feature 6 or 8 projects, I think that's a convenient number.
+
+**Thoughts:** will probably refactor tomorrow with a grid system which seems more convenient for what I need after several researchs.
+
 
 
 
