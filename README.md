@@ -247,6 +247,7 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 58: December 04, 2018
 **Today's Progress**: Refactored my mosaic of projects on my portfolio. Instead of a flexbox, I've added a grid system which seems to work much better.
 
+**Thoughts:** Need to had the hover effect on each project with details tomorrow! 
 
 
 
