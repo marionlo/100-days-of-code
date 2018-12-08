@@ -253,6 +253,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 59: December 05, 2018
 **Today's Progress**: Objective accomplished for the day! I've added my hover effect to give more details on each projects of my portfolio, with also a button linked to the URL of the project :) Good coding session! 
 
+### Day 60: December 08, 2018
+**Today's Progress**: So, portfolio again today! I've improved my projects section, added the second project, and also the about me section in term of design.
+
 
 
 
