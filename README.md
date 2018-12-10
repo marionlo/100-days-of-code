@@ -259,6 +259,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 61: December 09, 2018
 **Today's Progress**: Worked again on my portfolio, I wish I could finish it before the end of 2018, but still a lot to do! Finished styling the projects section, and added a modal to have more details about each project. 
 
+### Day 62: December 10, 2018
+**Today's Progress**: I was not convinced about the color palette I was using for my Portfolio, so I decided to refresh it a little bit. Seems better to me now. I also added the 4th project on my Projects section. Tomorrow I'll check how to add cool scrolling animations (without any library)
 
 
 
