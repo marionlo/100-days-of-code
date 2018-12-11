@@ -262,6 +262,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 62: December 10, 2018
 **Today's Progress**: I was not convinced about the color palette I was using for my Portfolio, so I decided to refresh it a little bit. Seems better to me now. I also added the 4th project on my Projects section. Tomorrow I'll check how to add cool scrolling animations (without any library)
 
+### Day 63: December 11, 2018
+**Today's Progress**: So today I've cleaned a little bit my code, mainly to remove the javascript from the HTML. I also check how to do the slide-in effects, I think the best way would be with a library in the end. Tried Animate on scroll but has some trouble to make it work on my website :) 
+
+
 
 
 
