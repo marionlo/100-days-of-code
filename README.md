@@ -265,6 +265,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 63: December 11, 2018
 **Today's Progress**: So today I've cleaned a little bit my code, mainly to remove the javascript from the HTML. I also check how to do the slide-in effects, I think the best way would be with a library in the end. Tried Animate on scroll but has some trouble to make it work on my website :) 
 
+### Day 64: December 12, 2018
+**Today's Progress**: Huge progress on my Portfolio today. Decided to restructure the whole project by using a generator with Yeoman in order to use Gulp and preprocess SCSS. I've also started to add my animations with Animate on scroll, it's starting to look cool!
+
 
 
 
