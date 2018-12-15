@@ -268,6 +268,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 64: December 12, 2018
 **Today's Progress**: Huge progress on my Portfolio today. Decided to restructure the whole project by using a generator with Yeoman in order to use Gulp and preprocess SCSS. I've also started to add my animations with Animate on scroll, it's starting to look cool!
 
+**Thoughts:** Will soon need to work on the responsiveness, and I need to find a tool to check on each browsers the look of my website.
+
 
 
 
