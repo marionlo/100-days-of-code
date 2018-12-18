@@ -270,6 +270,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Will soon need to work on the responsiveness, and I need to find a tool to check on each browsers the look of my website.
 
+### Day 65: December 12, 2018
+**Today's Progress**: Added the 5th project on my portfolio, and also the footer. I've also corrected a bug on a bouncing arrow that allow you to go down on another section, and updated the color of the content of the website.
+**Thoughts:** need to fix a bug on my typing effect script, I have now two cursors, I don't know why...
 
 
 
