@@ -270,15 +270,18 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Will soon need to work on the responsiveness, and I need to find a tool to check on each browsers the look of my website.
 
-### Day 65: December 12, 2018
+### Day 65: December 13, 2018
 **Today's Progress**: Added the 5th project on my portfolio, and also the footer. I've also corrected a bug on a bouncing arrow that allow you to go down on another section, and updated the color of the content of the website.
 **Thoughts:** need to fix a bug on my typing effect script, I have now two cursors, I don't know why...
 
 
-### Day 66: December 12, 2018
+### Day 66: December 23, 2018
 **Today's Progress**: Fixed my cursor problem on my portfolio :p Otherwise, today was all about fixing an issue on a website I created for a friend. She was not receiving emails anymore that she was supposed to receive via a form (I did a script with PHP). Turnt out I had to configure the PHP script to send the email to the domain email adress, otherwise, the email was not sent as considered as a spam (I put it on her personal email adress first). So, now the email form the domain is created, and everything is working again!
 
 **Thoughts:** Well, my thought is that you have to think about anythiiing before doing a website, and even if the work seems done, it's never over :p aha
+
+### Day 67: December 26, 2018
+**Today's Progress**: Not working as much as I would like because of the Xmas holiday now. I have some troubles to make working my Portfolio project on my laptop, and I don't have access to my Desktop computer right now. Encountering some issues with Bower, so I tried to migrate from Bower to Yarn but that was not really successful for now... Will try again, otherwise, I'll have to work without all the preprocessing which is not that convenient...
 
 
 
