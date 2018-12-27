@@ -284,8 +284,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Today's Progress**: Not working as much as I would like because of the Xmas holiday now. I have some troubles to make working my Portfolio project on my laptop, and I don't have access to my Desktop computer right now. Encountering some issues with Bower, so I tried to migrate from Bower to Yarn but that was not really successful for now... Will try again, otherwise, I'll have to work without all the preprocessing which is not that convenient...
 
 
-
-
+### Day 68: December 27, 2018
+**Today's Progress**: Finally managed to make my poetfolio project work again with Gulp on my laptop. I've added the last project on the projects section. Thinking about removing the scrollify effect on desktop version but keep it for mobile. I Will also improve the CSS by addict a table of content, validate it with CSS Optimize and Compress it and I also need to add a preload for the CSS to improve the loading speed of my website.
 
 
 
