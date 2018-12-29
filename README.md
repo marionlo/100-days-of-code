@@ -290,6 +290,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 69: December 28, 2018
 **Today's Progress**: Today I started working on the responsiveness of my website, which will be a several days of work. Started first with the mobile version, for now, I've started to work on the landing section of the website, and the about me section, but it's far from over :) Need to adapt a lot of things, like images and stuff to make it look great!
 
+**Thoughts:** Maybe I can add a loading animation when the website is loading
+
 
 
 
