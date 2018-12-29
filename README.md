@@ -287,6 +287,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 68: December 27, 2018
 **Today's Progress**: Finally managed to make my poetfolio project work again with Gulp on my laptop. I've added the last project on the projects section. Thinking about removing the scrollify effect on desktop version but keep it for mobile. I Will also improve the CSS by addict a table of content, validate it with CSS Optimize and Compress it and I also need to add a preload for the CSS to improve the loading speed of my website.
 
+### Day 69: December 28, 2018
+**Today's Progress**: Today I started working on the responsiveness of my website, which will be a several days of work. Started first with the mobile version, for now, I've started to work on the landing section of the website, and the about me section, but it's far from over :) Need to adapt a lot of things, like images and stuff to make it look great!
 
 
 
