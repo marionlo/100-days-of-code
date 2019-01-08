@@ -296,6 +296,8 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 70: December 29, 2018
 **Today's Progress**: Today I've continued to work on the responsiveness of my website. Worked again on the about me section and finished the mobile version (will improve it later with a D3.js script to feature the tools I use and languages I speak). Also finished the projects version for mobile and tomorrow I'll do the contact section.
 
+### Day 71: 08 January, 2019
+**Today's Progress**: New year, new challenges. Needed a small break from coding, but now I'm back! Did around 260 lines of code tonight, I've finished the mobile version of my portfolio, landscape and portrait version. That was a good coding session :) Tomorrow will continue to work on different media queries, for tablet first.
 
 
 
