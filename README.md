@@ -300,9 +300,9 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Today's Progress**: New year, new challenges. Needed a small break from coding, but now I'm back! Did around 260 lines of code tonight, I've finished the mobile version of my portfolio, landscape and portrait version. That was a good coding session :) Tomorrow will continue to work on different media queries, for tablet first.
 
 ### Day 71: 15 January, 2019
-**Today's Progress**: Added the tablet landscape responsive mode of my portfolio, nearly done with responsive.
+**Today's Progress**: Added the tablet landscape responsive mode of my portfolio, nearly done with responsive. Changed the grid system to a flexbox system to make it works on Internet explorer, it's more convenient. Also removed some unused CSS.
 
-**Thoughts:** Need to add the favicon and apple touch image.
+**Thoughts:** Need to add the favicon and apple touch image, need also to add custom toolbar for Chrome for Android.
 
 
 
