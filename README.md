@@ -304,6 +304,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Need to add the favicon and apple touch image, need also to add custom toolbar for Chrome for Android.
 
+### Day 73: 22 January, 2019
+**Today's Progress**: And I'm done with the responsive version of my website. Everything seems to work well ! Will need to try more on several devices and different browers as well :) But i'm quite happy with the result right now
+**Thoughts:** Next step: accessibility !
+
 
 
  
