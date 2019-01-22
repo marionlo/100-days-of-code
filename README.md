@@ -306,7 +306,7 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 ### Day 73: 22 January, 2019
 **Today's Progress**: And I'm done with the responsive version of my website. Everything seems to work well ! Will need to try more on several devices and different browers as well :) But i'm quite happy with the result right now
-**Thoughts:** Next step: accessibility !
+**Thoughts:** Next step: accessibility ! Small update: need to fix the rendering of the fonts on various browsers.
 
 
 
