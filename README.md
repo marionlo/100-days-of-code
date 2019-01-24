@@ -308,6 +308,11 @@ I've also started the React course on freeCodeCamp even if I have already some b
 **Today's Progress**: And I'm done with the responsive version of my website. Everything seems to work well ! Will need to try more on several devices and different browers as well :) But i'm quite happy with the result right now
 **Thoughts:** Next step: accessibility ! Small update: need to fix the rendering of the fonts on various browsers.
 
+### Day 74: 24 January, 2019
+**Today's Progress**: Fixed the rendering of the fonts on different browsers, small errors on the footer. Added the image for the last project and added Sass variables for the colors. I also begin to work on the php file for the contact form.
+
+
+
 
 
  
