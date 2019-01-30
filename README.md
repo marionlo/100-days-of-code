@@ -311,6 +311,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 ### Day 74: 24 January, 2019
 **Today's Progress**: Fixed the rendering of the fonts on different browsers, small errors on the footer. Added the image for the last project and added Sass variables for the colors. I also begin to work on the php file for the contact form.
 
+### Day 75: 30 January, 2019
+**Today's Progress**: Added the full screen toggle menu for small devices. Quite satisfied with the result! Added social links and navigation on the menu, and when clicking on a link the fact that the menu is closing at the same time and going directly with a sliding effect to the category.
+
+**Thoughts:** Need to finish the form and the accessibility and the website will be ready to go!!
 
 
 
