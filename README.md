@@ -316,6 +316,10 @@ I've also started the React course on freeCodeCamp even if I have already some b
 
 **Thoughts:** Need to finish the form and the accessibility and the website will be ready to go!!
 
+### Day 76: 05 February, 2019
+**Today's Progress**: So, it turns out that accessibility is more complex than I thought. There are a looot of things to think about. Today I started to add the aria-labels and roles on some html elements, and I also tested the Color contrast of my website, but it turns out that I have to change the colors because the ratio is not really good, I have to think of a good color palette, I liked this one, but, using yellow was slightly tricky on a white background... Will try different combinations tomorrow.
+
+
 
 
 
